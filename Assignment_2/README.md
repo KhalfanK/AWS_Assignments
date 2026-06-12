@@ -12,7 +12,7 @@ Deploy two EC2 instances behind an ALB. The ALB must handle all incoming traffic
 
 ## Deployment Proof
 
-![Active Load Balancing](../Assets/Screen-Recording-2026-06-12-103057.mp4)
+![Active Load Balancing](https://github.com/user-attachments/assets/b8f67395-8658-4711-90b3-a1599b8a101d)
 
 ---
 
