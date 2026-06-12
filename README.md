@@ -5,8 +5,8 @@ Welcome to this repository! Having recently completed my foundational module in 
 # Projects
 
 So far There are two assignments in this repo which I have completed a breakdown for:
-- [Assignment 1: VPC, Subnets, IGW, NATGW](./README.md)
-- [Assignment 2: EC2 Instances behind Load Balancer](./README.md)
+- [Assignment 1: VPC, Subnets, IGW, NATGW](./Assignment_1/README.md)
+- [Assignment 2: EC2 Instances behind Load Balancer](./Assignment_2/README.md)
 
 # Thoughts
 
